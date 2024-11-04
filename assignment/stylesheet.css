@@ -3,3 +3,7 @@ header{ /* Editing my header */
     color: white; /* Changing the text font color */
     text-align: center; /* Centering the text */
 }
+body{
+    background-image: url('record.png'); /* Setting a path for my image */
+    background-repeat: repeat; /* This will make the image repeat */
+}
