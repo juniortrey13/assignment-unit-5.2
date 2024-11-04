@@ -6,4 +6,9 @@ header{ /* Editing my header */
 body{
     background-image: url('record.png'); /* Setting a path for my image */
     background-repeat: repeat; /* This will make the image repeat */
+    margin: 0; /* Removing any whitespace around the edges of the page */
+}
+main{
+    background-color: bisque; /* Added a background color */
+    padding: 1em; /* Changed the padding */
 }
